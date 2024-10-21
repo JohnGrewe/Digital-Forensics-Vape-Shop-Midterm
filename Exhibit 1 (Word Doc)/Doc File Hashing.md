@@ -1,0 +1,12 @@
+3:41 PM 10/8/2024
+
+File name	 1. MD5	 2. SHA-256
+H:\TULSA CYBER STUDIES\CYB 1201 Intro to Dig Forensics\Curriculum\Week 7\MidTerm Exam\Shewasmine\Exhibit 1\E_Item1.docx	
+
+1. F659B52EC6DC371B9E67F73707D2BC47	
+2. 26EE0FAEF11DE8C74533AC9A594E97F534FCEC93B1FB6B5596615DC839C6C60F
+
+
+![[Pasted image 20241016221657.png]]
+
+Verified the hash for the doc file
